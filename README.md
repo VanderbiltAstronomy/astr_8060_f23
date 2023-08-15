@@ -7,3 +7,10 @@ Vanderbilt University <br>
 ## [Syllabus](./docs/astr8060_syllabus_fall23.pdf)
 
 ## Schedule
+[Syllabus](./docs/astr8060_syllabus_fall23.pdf)
+
+
+
+## Homework
+
+## Final Project
