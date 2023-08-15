@@ -10,7 +10,7 @@ Vanderbilt University <br>
 
 | Date   | Topic | Resources |
 | ---:   | :--- | :---    |
-| <ins>August</ins><br> R 24   | <br> Introduction, Initial Setup                               ||
+| <ins>August</ins><br> R 24   | <br> Introduction, Initial Setup, Git Workflow                 ||
 | T 29                         | Celestial sphere, Coordinates                                  ||
 | R 31                         | Coordinates, Time                                              ||
 
