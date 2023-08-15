@@ -4,6 +4,6 @@
 Vanderbilt University <br>
 
 
-## [Syllabus](astr8060_syllabus_fall23.pdf)
+## [Syllabus](./docs/astr8060_syllabus_fall23.pdf)
 
 ## Schedule
