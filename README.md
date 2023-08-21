@@ -10,9 +10,9 @@ Vanderbilt University <br>
 
 | Date   | Topic | Resources |
 | ---:   | :--- | :---    |
-| <ins>August</ins><br> R 24   | <br> Introduction, Initial Setup, Git Workflow                 ||
-| T 29                         | Celestial sphere, Coordinates                                  ||
-| R 31                         | Coordinates, Time                                              ||
+| <ins>August</ins><br> R 24   | <br> Introduction, celestial sphere, coordinates               | [[pdf]](./notes/ASTR8060_notes_coordinates.pdf) |
+| T 29                         | Coordinates, Time                                              ||
+| R 31                         | Telescopes, Plate Scale, Sampling                              ||
 
 <!-- Upcoming activities are commented out
 | <ins>September</ins><br> T 5 | <br> Telescopes, Plate Scale, Sampling                         ||
