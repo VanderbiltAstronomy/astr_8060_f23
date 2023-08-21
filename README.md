@@ -6,6 +6,8 @@ Vanderbilt University <br>
 
 ## [Syllabus](./docs/astr8060_syllabus_fall23.pdf)
 
+## [Resources](RESOURCES.md)
+
 ## Schedule
 
 | Date   | Topic | Resources |
