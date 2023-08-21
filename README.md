@@ -6,13 +6,11 @@ Vanderbilt University <br>
 
 ## [Syllabus](./docs/astr8060_syllabus_fall23.pdf)
 
-## [Resources](RESOURCES.md)
-
 ## Schedule
 
 | Date   | Topic | Resources |
 | ---:   | :--- | :---    |
-| <ins>August</ins><br> R 24   | <br> Introduction, celestial sphere, coordinates               | [[pdf]](./notes/ASTR8060_notes_coordinates.pdf) |
+| <ins>August</ins><br> R 24   | <br> Introduction, celestial sphere, coordinates               | [[pdf]](./notes/ASTR8060_notes_coordinates.pdf)[[links]](RESOURCES.md#week-1) |
 | T 29                         | Coordinates, Time                                              ||
 | R 31                         | Telescopes, Plate Scale, Sampling                              ||
 
