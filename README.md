@@ -11,7 +11,7 @@ Vanderbilt University <br>
 | Date   | Topic | Resources |
 | ---:   | :--- | :---    |
 | <ins>August</ins><br> R 24   | <br> Introduction, celestial sphere, coordinates               | <br> [[notes]](./notes/ASTR8060_notes_coordinates.pdf)[[links]](RESOURCES.md#week-1) Chromey Ch. 3 |
-| T 29                         | Coordinates, Time                                              ||
+| T 29                         | Coordinates, Time                                              |[[notes]](./notes/ASTR8060_notes_coordinates_time.pdf)[[links]](RESOURCES.md#week-2) Chromey Ch. 3 |
 | R 31                         | Telescopes, Plate Scale, Sampling                              ||
 
 <!-- Upcoming activities are commented out
