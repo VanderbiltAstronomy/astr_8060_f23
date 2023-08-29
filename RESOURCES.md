@@ -14,3 +14,4 @@ Vanderbilt University <br>
 [Equatorial to Galactic coordinate transformation](./docs/leinert98_coordinates.pdf) <br>
 [Observation planning tool](http://catserver.ing.iac.es/staralt/index.php) <br>
 [ThorSky](https://github.com/jrthorstensen/thorsky) <br>
+[Git](https://git-scm.com/downloads/) <br>
