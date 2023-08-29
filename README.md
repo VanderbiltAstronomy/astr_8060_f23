@@ -12,7 +12,11 @@ Vanderbilt University <br>
 | ---:   | :--- | :---    |
 | <ins>August</ins><br> R 24   | <br> Introduction, celestial sphere, coordinates               | <br> [[notes]](./notes/ASTR8060_notes_coordinates.pdf)[[links]](RESOURCES.md#week-1) Chromey Ch. 3 |
 | T 29                         | Coordinates, Time                                              |[[notes]](./notes/ASTR8060_notes_coordinates_time.pdf)[[links]](RESOURCES.md#week-2) Chromey Ch. 3 |
-| R 31                         | Telescopes, Plate Scale, Sampling                              ||
+| R 31                         | Computing, Git                                                 |[[notes]](./notebooks/git_primer.ipynb)[[links]](RESOURCES.md#week-2) |
+| <ins>September</ins><br> T 5 | <br> Telescopes, Plate Scale, Sampling                         |[[notes]](./notes/ASTR8060_notes_telescopes_resolution.pdf)[[links]](RESOURCES.md#week-3) Chromey Ch. 5-6|
+| R 7                          | Resolution, Atmosphere                                         |[[notes]](./notes/ASTR8060_notes_atmosphere.pdf)[[links]](RESOURCES.md#week-3) Chromey Ch. 5-6|
+
+
 
 <!-- Upcoming activities are commented out
 | <ins>September</ins><br> T 5 | <br> Telescopes, Plate Scale, Sampling                         ||
