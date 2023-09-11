@@ -15,7 +15,8 @@ Vanderbilt University <br>
 | R 31                         | Computing, Git                                                 |[[notes]](./notebooks/git_primer.ipynb)[[links]](RESOURCES.md#week-2) |
 | <ins>September</ins><br> T 5 | <br> Telescopes, Plate Scale, Sampling                         |[[notes]](./notes/ASTR8060_notes_telescopes_resolution.pdf)[[links]](RESOURCES.md#week-3) Chromey Ch. 5-6|
 | R 7                          | Resolution, Atmosphere                                         |[[notes]](./notes/ASTR8060_notes_atmosphere.pdf)[[links]](RESOURCES.md#week-3) Chromey Ch. 5-6|
-
+| T 12                         | Flux, Magnitudes                                               |[[notes]](./notes/ASTR8060_notes_flux_mag.pdf)[[links]](RESOURCES.md#week-4) Chromey Ch. 1, 10, 10.8, 11.9|
+| R 14                         | Python                                                         |[[notes]](./notebooks/python_setup.ipynb)[[links]](RESOURCES.md#week-4)|
 
 
 <!-- Upcoming activities are commented out

@@ -15,3 +15,10 @@ Vanderbilt University <br>
 [Observation planning tool](http://catserver.ing.iac.es/staralt/index.php) <br>
 [ThorSky](https://github.com/jrthorstensen/thorsky) <br>
 [Git](https://git-scm.com/downloads/) <br>
+
+### Week 3
+
+### Week 4
+[HST WFC3 unit conversion notebook](https://github.com/spacetelescope/WFC3Library/blob/master/notebooks/flux_conversion_tool/flux_conversion_tool.ipynb) <br>
+
+
