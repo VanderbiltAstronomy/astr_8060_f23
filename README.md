@@ -16,7 +16,12 @@ Vanderbilt University <br>
 | <ins>September</ins><br> T 5 | <br> Telescopes, Plate Scale, Sampling                         |[[notes]](./notes/ASTR8060_notes_telescopes_resolution.pdf)[[links]](RESOURCES.md#week-3) Chromey Ch. 5-6|
 | R 7                          | Resolution, Atmosphere                                         |[[notes]](./notes/ASTR8060_notes_atmosphere.pdf)[[links]](RESOURCES.md#week-3) Chromey Ch. 5-6|
 | T 12                         | Flux, Magnitudes                                               |[[notes]](./notes/ASTR8060_notes_flux_mag.pdf)[[links]](RESOURCES.md#week-4) Chromey Ch. 1, 10, 10.8, 11.9|
-| R 14                         | Python                                                         |[[notes]](./notebooks/python_setup.ipynb)[[links]](RESOURCES.md#week-4)|
+| R 14                         | Detectors, Statistics                                          |[[notes]](./notes/ASTR8060_notes_detectors_stats.pdf)[[links]](RESOURCES.md#week-4) Chromey Ch. 2,7.3-7.8,8, Howell Ch. 1-2 |
+| T 19                         | Signal to noise                                                |[[notes]](./notes/ASTR8060_notes_SN.pdf)[[links]](RESOURCES.md#week-5) Howell Ch. 4.4 |
+| R 21                         | Python                                                         |[[notes]](./notebooks/python_setup.ipynb)[[links]](RESOURCES.md#week-5)|
+
+
+
 
 
 <!-- Upcoming activities are commented out
@@ -53,6 +58,7 @@ Vanderbilt University <br>
 
 ## Homework
 * [Homework 1](./hw/HW1.pdf) (due 09/07/2023 @ 09:30am CST)
+* [Homework 2](./hw/HW2.pdf) (due 09/23/2023 @ 09:30am CST)
 
 <!-- Upcoming project commented out
 ## Final Project
