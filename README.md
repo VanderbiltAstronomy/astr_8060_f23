@@ -17,9 +17,8 @@ Vanderbilt University <br>
 | R 7                          | Resolution, Atmosphere                                         |[[notes]](./notes/ASTR8060_notes_atmosphere.pdf)[[links]](RESOURCES.md#week-3) Chromey Ch. 5-6|
 | T 12                         | Flux, Magnitudes                                               |[[notes]](./notes/ASTR8060_notes_flux_mag.pdf)[[links]](RESOURCES.md#week-4) Chromey Ch. 1, 10, 10.8, 11.9|
 | R 14                         | Detectors, Statistics                                          |[[notes]](./notes/ASTR8060_notes_detectors_stats.pdf)[[links]](RESOURCES.md#week-4) Chromey Ch. 2,7.3-7.8,8, Howell Ch. 1-2 |
-| T 19                         | Signal to noise                                                |[[notes]](./notes/ASTR8060_notes_SN.pdf)[[links]](RESOURCES.md#week-5) Howell Ch. 4.4 |
-| R 21                         | Python                                                         |[[notes]](./notebooks/python_setup.ipynb)[[links]](RESOURCES.md#week-5)|
-
+| T 19                         | Python                                                         |[[notes]](./notebooks/python_setup.ipynb)[[links]](RESOURCES.md#week-5)|
+| R 21                         | Signal to noise                                                |[[notes]](./notes/ASTR8060_notes_SN.pdf)[[links]](RESOURCES.md#week-5) Howell Ch. 4.4 |
 
 
 
