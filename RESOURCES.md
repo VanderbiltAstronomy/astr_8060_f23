@@ -28,3 +28,7 @@ Vanderbilt University <br>
 [SYNPHOT photometric properties](https://synphot.readthedocs.io/en/latest/synphot/formulae.html) <br>
 [SYNPHOT](https://synphot.readthedocs.io/en/latest/) <br>
 [STSYNPHOT](https://stsynphot.readthedocs.io/en/latest/) <br>
+
+### Week 6
+[Astropy CCD Reduction and Photometry Guide -- READ THIS!](https://github.com/astropy/ccd-reduction-and-photometry-guide/tree/main) <br>
+
