@@ -57,7 +57,7 @@ Vanderbilt University <br>
 
 ## Homework
 * [Homework 1](./hw/HW1.pdf) (due 09/07/2023 @ 09:30am CST)
-* [Homework 2](./hw/HW2.pdf) (due 09/23/2023 @ 09:30am CST)
+* [Homework 2](./hw/HW2.pdf) (due 09/21/2023 @ 09:30am CST)
 
 <!-- Upcoming project commented out
 ## Final Project
