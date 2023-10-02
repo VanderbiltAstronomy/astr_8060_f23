@@ -21,11 +21,10 @@ Vanderbilt University <br>
 | R 21                         | Signal to noise                                                |[[notes]](./notes/ASTR8060_notes_SN.pdf)[[links]](RESOURCES.md#week-5) Howell Ch. 4.4 |
 | T 26                         | Photometry: calibration types                                  |[[notes]](./notes/ASTR8060_notes_reductions.pdf)[[links]](RESOURCES.md#week-6) Chromey Ch. 9, Howell Ch. 4 |
 | R 28                         | Computing: image combination                                   |[[notes]](./notebooks/image_combination.ipynb)[[links]](RESOURCES.md#week-6)|
-
-
-
+| <ins>October</ins><br> T 3 | <br> Computing: image combination continued                      |[[notes]](./notebooks/image_combination.ipynb)[[links]](RESOURCES.md#week-7)|
 
 <!-- Upcoming activities are commented out
+| R 5                          | Proposals, aperture photometry                                 |[[notes]](note_link)[[links]](RESOURCES.md#week-7)|
 | <ins>September</ins><br> T 5 | <br> Telescopes, Plate Scale, Sampling                         ||
 | R 7                          | Resolution, Atmosphere                                         ||
 | T 12                         | Flux, Magnitudes                                               ||

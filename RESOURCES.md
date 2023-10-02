@@ -32,3 +32,5 @@ Vanderbilt University <br>
 ### Week 6
 [Astropy CCD Reduction and Photometry Guide -- READ THIS!](https://github.com/astropy/ccd-reduction-and-photometry-guide/tree/main) <br>
 
+### Week 7
+
