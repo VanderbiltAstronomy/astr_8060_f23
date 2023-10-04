@@ -58,8 +58,8 @@ Vanderbilt University <br>
 -->
 
 ## Homework
-* [Homework 1](./hw/HW1.pdf) (due 09/07/2023 @ 09:30am CST; [Solution](./ASTR8060_HW1_solution.pdf)) 
-* [Homework 2](./hw/HW2.pdf) (due 09/21/2023 @ 09:30am CST; [Solution](./ASTR8060_HW2_solution.pdf))
+* [Homework 1](./hw/HW1.pdf) (due 09/07/2023 @ 09:30am CST; [Solution](./hw/ASTR8060_HW1_solution.pdf)) 
+* [Homework 2](./hw/HW2.pdf) (due 09/21/2023 @ 09:30am CST; [Solution](./hw/ASTR8060_HW2_solution.pdf))
 * [Homework 3](./hw/HW3.pdf) (due 10/05/2023 @ 09:30am CST)
 
 ## Final Project
