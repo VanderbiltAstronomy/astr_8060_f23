@@ -16,10 +16,6 @@ Vanderbilt University <br>
 [ThorSky](https://github.com/jrthorstensen/thorsky) <br>
 [Git](https://git-scm.com/downloads/) <br>
 
-### Week 3
-
-### Week 4
-
 ### Week 5
 [HST WFC3 unit conversion notebook](https://github.com/spacetelescope/WFC3Library/blob/master/notebooks/flux_conversion_tool/flux_conversion_tool.ipynb) <br>
 [Filter Response Curves](http://svo2.cab.inta-csic.es/theory/fps/) <br>
@@ -31,11 +27,6 @@ Vanderbilt University <br>
 
 ### Week 6
 [Astropy CCD Reduction and Photometry Guide -- READ THIS!](https://github.com/astropy/ccd-reduction-and-photometry-guide/tree/main) <br>
-
-### Week 7
-
-
-
 
 ### Final
 [Unconscious bias](https://ui.adsabs.harvard.edu/abs/2019BAAS...51g..41A/abstract) <br>
