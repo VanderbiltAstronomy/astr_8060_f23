@@ -23,18 +23,10 @@ Vanderbilt University <br>
 | R 28                         | Computing: image combination                                   |[[notes]](./notebooks/image_combination.ipynb)[[links]](RESOURCES.md#week-6)|
 | <ins>October</ins><br> T 3 | <br> Image combination continued                                 |<br> [[notes]](./notebooks/image_combination.ipynb)[[links]](RESOURCES.md#week-7)|
 | R 5                          | Introduction to final project                                  |[[notes]](./final/)[[links]](RESOURCES.md#final)|
+| T 10                         | Computing: data management                                     |[[notes]](./notebooks/data_management.ipynb)[[links]](RESOURCES.md#week-8)|
+| R 12                         | Computing: overscan subtraction                                |[[notes]](./notebooks/overscan_subtraction.ipynb)[[links]](RESOURCES.md#week-8)|
 
 <!-- Upcoming activities are commented out
-| R 5                          | Proposals, aperture photometry                                 |[[notes]](note_link)[[links]](RESOURCES.md#week-7)|
-| <ins>September</ins><br> T 5 | <br> Telescopes, Plate Scale, Sampling                         ||
-| R 7                          | Resolution, Atmosphere                                         ||
-| T 12                         | Flux, Magnitudes                                               ||
-| R 14                         | Detectors, Statistics                                          ||
-| T 19                         | Signal to noise                                                ||
-| R 21                         |                                                                ||
-| T 26                         | Photometric Reduction 1                                        ||
-| R 28                         | Computing: overscan subtraction                                ||
-| <ins>October</ins><br> T 3   | <br>                                                           ||
 | R 5                          | Proposals, aperture photometry                                 ||
 | T 10                         | Photometric standards                                          ||
 | R 12                         |                                                                ||
