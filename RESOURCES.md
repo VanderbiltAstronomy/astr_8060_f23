@@ -34,6 +34,14 @@ Vanderbilt University <br>
 
 ### Week 7
 
+### Week 8
+[glob](https://docs.python.org/3/library/glob.html) <br>
+[ImageFileCollections](https://ccdproc.readthedocs.io/en/latest/api/ccdproc.ImageFileCollection.html) <br>
+[datetime module](https://docs.python.org/3/library/datetime.html) <br>
+[fits headers](https://docs.astropy.org/en/stable/io/fits/usage/headers.html) <br>
+[astropy models](https://docs.astropy.org/en/stable/modeling/) <br>
+[astropy model tutorial](https://learn.astropy.org/tutorials/Models-Quick-Fit.html) <br>
+
 ### Final
 [Unconscious bias](https://ui.adsabs.harvard.edu/abs/2019BAAS...51g..41A/abstract) <br>
 [NOIRLab Call for Proposals 2024A](https://noirlab.edu/science/observing-noirlab/proposals/call-for-proposals) <br>
