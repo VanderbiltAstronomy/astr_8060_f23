@@ -42,6 +42,10 @@ Vanderbilt University <br>
 [astropy models](https://docs.astropy.org/en/stable/modeling/) <br>
 [astropy model tutorial](https://learn.astropy.org/tutorials/Models-Quick-Fit.html) <br>
 
+### Week 9
+[astropy.sigma_clip](https://docs.astropy.org/en/stable/api/astropy.stats.sigma_clip.html) <br>
+[combining flats notebook](https://github.com/astropy/ccd-reduction-and-photometry-guide/blob/main/notebooks/05-04-Combining-flats.ipynb) <br>
+
 ### Final
 [Unconscious bias](https://ui.adsabs.harvard.edu/abs/2019BAAS...51g..41A/abstract) <br>
 [NOIRLab Call for Proposals 2024A](https://noirlab.edu/science/observing-noirlab/proposals/call-for-proposals) <br>
