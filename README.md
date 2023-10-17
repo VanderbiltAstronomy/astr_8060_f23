@@ -25,6 +25,8 @@ Vanderbilt University <br>
 | R 5                          | Introduction to final project                                  |[[notes]](./final/)[[links]](RESOURCES.md#final)|
 | T 10                         | Computing: data management                                     |[[notes]](./notebooks/data_management.ipynb)[[links]](RESOURCES.md#week-8)|
 | R 12                         | Computing: overscan subtraction                                |[[notes]](./notebooks/overscan_subtraction.ipynb)[[links]](RESOURCES.md#week-8)|
+| T 17                         | Computing: combining flats                                     |[[notes]](./notebooks/combine_flats.ipynb)[[links]](RESOURCES.md#week-9)|
+| R 19                         | FALL BREAK                                                     ||
 
 <!-- Upcoming activities are commented out
 | R 5                          | Proposals, aperture photometry                                 ||
@@ -56,6 +58,7 @@ Vanderbilt University <br>
 * [Homework 4](./hw/HW5.pff) (due 10/19/2023 @ 09:30am CST)
 
 ## Final Project
+* [final project](./final/final_project.pdf) telescope/instrument choice due 10/24/2023 @ 09:30am CST <br>
 
 Your [final project assignment](./final/final_project.pdf) will be to write a NOIRLab observing proposal and conduct a Time Allocation Committee panel. Your proposal and panel participation will be graded according to this [rubric](./final/rubric.pdf).
 
