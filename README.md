@@ -27,6 +27,7 @@ Vanderbilt University <br>
 | R 12                         | Computing: overscan subtraction                                |[[notes]](./notebooks/overscan_subtraction.ipynb)[[links]](RESOURCES.md#week-8)|
 | T 17                         | Computing: combining flats                                     |[[notes]](./notebooks/combine_flats.ipynb)[[links]](RESOURCES.md#week-9)|
 | R 19                         | FALL BREAK                                                     ||
+| T 24                         | Computing: combining flats continued                           |[[notes]](./notebooks/combine_flats.ipynb)[[links]](RESOURCES.md#week-9)|
 
 <!-- Upcoming activities are commented out
 | R 5                          | Proposals, aperture photometry                                 ||
