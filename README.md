@@ -27,6 +27,7 @@ Vanderbilt University <br>
 | R 12                         | Computing: overscan subtraction                                |[[notes]](./notebooks/overscan_subtraction.ipynb)[[links]](RESOURCES.md#week-8)|
 | T 17                         | Computing: combining flats                                     |[[notes]](./notebooks/combine_flats.ipynb)[[links]](RESOURCES.md#week-9)|
 | R 19                         | FALL BREAK                                                     ||
+| T 24                         | Computing: combining flats continued                           |[[notes]](./notebooks/combine_flats.ipynb)[[links]](RESOURCES.md#week-9)|
 
 <!-- Upcoming activities are commented out
 | R 5                          | Proposals, aperture photometry                                 ||
@@ -55,7 +56,8 @@ Vanderbilt University <br>
 * [Homework 1](./hw/HW1.pdf) (due 09/07/2023 @ 09:30am CST; [Solution](./hw/ASTR8060_HW1_solution.pdf)) 
 * [Homework 2](./hw/HW2.pdf) (due 09/21/2023 @ 09:30am CST; [Solution](./hw/ASTR8060_HW2_solution.pdf))
 * [Homework 3](./hw/HW3.pdf) (due 10/05/2023 @ 09:30am CST; [Solution](./hw/ASTR8060_HW3_solution.pdf))
-* [Homework 4](./hw/HW5.pff) (due 10/19/2023 @ 09:30am CST)
+* [Homework 4](./hw/HW4.pdf) (due 10/19/2023 @ 09:30am CST)
+* [Homework 5](./hw/HW5.pdf) (due date not assigned)
 
 ## Final Project
 * [final project](./final/final_project.pdf) telescope/instrument choice due 10/24/2023 @ 09:30am CST <br>
