@@ -30,6 +30,7 @@ Vanderbilt University <br>
 | T 24                         | Computing: combining flats continued                           |[[notes]](./notebooks/combine_flats.ipynb)[[links]](RESOURCES.md#week-10)|
 | R 26                         | Computing: combining flats continued                           |[[notes]](./notebooks/combine_flats.ipynb)[[links]](RESOURCES.md#week-10)|
 | T 31                         | Computing: apertures                                           |[[notes]](./notes/ASTR8060_notes_apertures.pdf)[[notebook]](./notebooks/apertures.ipynb)[[links]](RESOURCES.md#week-11)|
+| <ins>November</ins><br> R 2 | <br> Computing: finding stars                                 |<br> [[notes]](./notebooks/starfinder.ipynb)[[links]](RESOURCES.md#week-11)|
 
 <!-- Upcoming activities are commented out
 | R 5                          | Proposals, aperture photometry                                 ||
