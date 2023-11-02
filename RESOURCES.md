@@ -58,6 +58,7 @@ Vanderbilt University <br>
 [imexam description](https://imexam.readthedocs.io/en/latest/imexam/description.html) <br>
 [imexam walkthrough](https://imexam.readthedocs.io/en/0.9.1/imexam/walkthrough.html) <br>
 [more on imexam](https://imexam.readthedocs.io/en/0.9.1/index.html) <br>
+[interactive imexam tutorial notebook](./notebooks/Imexam.ipynb) <br>
 
 ### Final
 [Unconscious bias](https://ui.adsabs.harvard.edu/abs/2019BAAS...51g..41A/abstract) <br>
