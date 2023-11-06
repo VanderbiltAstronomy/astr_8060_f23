@@ -32,7 +32,7 @@ Vanderbilt University <br>
 | T 31                         | Computing: apertures                                           |[[notes]](./notes/ASTR8060_notes_apertures.pdf)[[notebook]](./notebooks/apertures.ipynb)[[links]](RESOURCES.md#week-11)|
 | <ins>November</ins><br> R 2  | <br> Computing: finding stars                                  |<br> [[notes]](./notebooks/starfinder.ipynb)[[links]](RESOURCES.md#week-11)|
 | T 7                          | Photometric standards                                          |[[notes]](./notes/ASTR8060_notes_standards.pdf)[[links]](RESOURCES.md#week-12) Chromey Ch. 10 |
-| R 9                          | Observing proposal lab                                         |[[noets]](./notebooks/observing_proposal_preparation.ipynb)[[links]](RESOURCES.md#week-12)|
+| R 9                          | Observing proposal lab                                         |[[notes]](./notebooks/observing_proposal_preparation.ipynb)[[links]](RESOURCES.md#week-12)|
 <!-- Upcoming activities are commented out
 | R 5                          | Proposals, aperture photometry                                 ||
 | T 10                         | Photometric standards                                          ||
