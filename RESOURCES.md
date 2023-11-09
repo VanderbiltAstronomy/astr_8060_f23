@@ -60,6 +60,9 @@ Vanderbilt University <br>
 [more on imexam](https://imexam.readthedocs.io/en/0.9.1/index.html) <br>
 [interactive imexam tutorial notebook](./notebooks/Imexam.ipynb) <br>
 
+### Week 12
+[Landolt (1992)](https://ui.adsabs.harvard.edu/abs/1992AJ....104..340L/abstract) <br>
+
 ### Final
 [Unconscious bias](https://ui.adsabs.harvard.edu/abs/2019BAAS...51g..41A/abstract) <br>
 [NOIRLab Call for Proposals 2024A](https://noirlab.edu/science/observing-noirlab/proposals/call-for-proposals) <br>
