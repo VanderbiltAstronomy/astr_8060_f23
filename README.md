@@ -33,6 +33,15 @@ Vanderbilt University <br>
 | <ins>November</ins><br> R 2  | <br> Computing: finding stars                                  |<br> [[notes]](./notebooks/starfinder.ipynb)[[links]](RESOURCES.md#week-11)|
 | T 7                          | Photometric standards                                          |[[notes]](./notes/ASTR8060_notes_standards.pdf)[[links]](RESOURCES.md#week-12) Chromey Ch. 10 |
 | R 9                          | Observing proposal lab                                         |[[notes]](./notebooks/observing_proposal_preparation.ipynb)[[links]](RESOURCES.md#week-12)|
+| T 14                         | Diffraction and interference                                   |[[notes]](./notes/ASTR8060_notes_diffraction.pdf)[[links]](RESOURCES.md#week-13) Chromey Ch. 11 |
+| R 16                         | The grating equation                                           |[[notes]](./notes/ASTR8060_notes_diffraction_spec.pdf)[[links]](RESOURCES.md#week-13) Chromey Ch. 11 |
+| T 21                         | THANKSGIVING                                                   ||
+| R 23                         | THANKSGIVING                                                   ||
+| T 28                         | Spectrograph example                                           |[[notes]](./notes/ASTR8060_notes_spectrograph.pdf)[[links]](RESOURCES.md#week-14) Chromey Ch. 11 |
+| R 30                         | Spectroscopic data reduction                                   |[[notes]](./notes/ASTR8060_notes_specreduce.pdf)[[links]](RESOURCES.md#week-14) |
+| <ins>December</ins><br> T 5  | <br>                                                           |<br>|
+| R 7                          | Time Allocation Committees                                     ||
+| W 13                         | Final Exam: Panel Review                                       ||
 <!-- Upcoming activities are commented out
 | R 5                          | Proposals, aperture photometry                                 ||
 | T 10                         | Photometric standards                                          ||
