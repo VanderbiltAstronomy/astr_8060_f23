@@ -10,6 +10,11 @@ __pycache__/
 # C extensions
 *.so
 
+# levi's stuff:
+work/schultls/misc_works/imagedataset/*fits
+work/schultls/misc_works/imgs_wtags/*fits
+work/schultls/misc_works/reduced/*fits
+
 # Distribution / packaging
 .Python
 build/

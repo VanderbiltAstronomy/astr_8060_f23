@@ -27,8 +27,21 @@ Vanderbilt University <br>
 | R 12                         | Computing: overscan subtraction                                |[[notes]](./notebooks/overscan_subtraction.ipynb)[[links]](RESOURCES.md#week-8)|
 | T 17                         | Computing: combining flats                                     |[[notes]](./notebooks/combine_flats.ipynb)[[links]](RESOURCES.md#week-9)|
 | R 19                         | FALL BREAK                                                     ||
-| T 24                         | Computing: combining flats continued                           |[[notes]](./notebooks/combine_flats.ipynb)[[links]](RESOURCES.md#week-9)|
-
+| T 24                         | Computing: combining flats continued                           |[[notes]](./notebooks/combine_flats.ipynb)[[links]](RESOURCES.md#week-10)|
+| R 26                         | Computing: combining flats continued                           |[[notes]](./notebooks/combine_flats.ipynb)[[links]](RESOURCES.md#week-10)|
+| T 31                         | Computing: apertures                                           |[[notes]](./notes/ASTR8060_notes_apertures.pdf)[[notebook]](./notebooks/apertures.ipynb)[[links]](RESOURCES.md#week-11)|
+| <ins>November</ins><br> R 2  | <br> Computing: finding stars                                  |<br> [[notes]](./notebooks/starfinder.ipynb)[[links]](RESOURCES.md#week-11)|
+| T 7                          | Photometric standards                                          |[[notes]](./notes/ASTR8060_notes_standards.pdf)[[links]](RESOURCES.md#week-12) Chromey Ch. 10 |
+| R 9                          | Observing proposal lab                                         |[[notes]](./notebooks/observing_proposal_preparation.ipynb)[[links]](RESOURCES.md#week-12)|
+| T 14                         | Diffraction and interference                                   |[[notes]](./notes/ASTR8060_notes_diffraction.pdf)[[links]](RESOURCES.md#week-13) Chromey Ch. 11 |
+| R 16                         | The grating equation                                           |[[notes]](./notes/ASTR8060_notes_diffraction_spec.pdf)[[links]](RESOURCES.md#week-13) Chromey Ch. 11 |
+| T 21                         | THANKSGIVING                                                   ||
+| R 23                         | THANKSGIVING                                                   ||
+| T 28                         | Spectrograph example                                           |[[notes]](./notes/ASTR8060_notes_spectrograph.pdf)[[links]](RESOURCES.md#week-14) Chromey Ch. 11 |
+| R 30                         | Spectroscopic data reduction                                   |[[notes]](./notes/ASTR8060_notes_specreduce.pdf)[[links]](RESOURCES.md#week-14) |
+| <ins>December</ins><br> T 5  | <br>                                                           |<br>|
+| R 7                          | Time Allocation Committees                                     ||
+| W 13                         | Final Exam: Panel Review                                       ||
 <!-- Upcoming activities are commented out
 | R 5                          | Proposals, aperture photometry                                 ||
 | T 10                         | Photometric standards                                          ||
@@ -56,11 +69,14 @@ Vanderbilt University <br>
 * [Homework 1](./hw/HW1.pdf) (due 09/07/2023 @ 09:30am CST; [Solution](./hw/ASTR8060_HW1_solution.pdf)) 
 * [Homework 2](./hw/HW2.pdf) (due 09/21/2023 @ 09:30am CST; [Solution](./hw/ASTR8060_HW2_solution.pdf))
 * [Homework 3](./hw/HW3.pdf) (due 10/05/2023 @ 09:30am CST; [Solution](./hw/ASTR8060_HW3_solution.pdf))
-* [Homework 4](./hw/HW4.pdf) (due 10/19/2023 @ 09:30am CST)
-* [Homework 5](./hw/HW5.pdf) (due date not assigned)
+* [Homework 4](./hw/HW4.pdf) (due 10/19/2023 @ 09:30am CST; [Solution](./hw/ASTR8060_HW4_solution.ipynb))
+* [Homework 4R](./hw/HW4R.pdf) (due 11/14/2023 @ 09:30am CDT)
+* [Homework 5](./hw/HW5.pdf) (due 11/14/2023 @ 09:30am CDT)
+* [Homework 6](./hw/HW6.pdf) (due 11/30/2023 @ 09:30pm CDT)
 
 ## Final Project
 * [final project](./final/final_project.pdf) telescope/instrument choice due 10/24/2023 @ 09:30am CST <br>
+* [final project](./final/final_project.pdf) draft is due 11/16/2023 @ 09:30am CST <br>
 
 Your [final project assignment](./final/final_project.pdf) will be to write a NOIRLab observing proposal and conduct a Time Allocation Committee panel. Your proposal and panel participation will be graded according to this [rubric](./final/rubric.pdf).
 
