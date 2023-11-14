@@ -72,6 +72,7 @@ Vanderbilt University <br>
 * [Homework 4](./hw/HW4.pdf) (due 10/19/2023 @ 09:30am CST; [Solution](./hw/ASTR8060_HW4_solution.ipynb))
 * [Homework 4R](./hw/HW4R.pdf) (due 11/14/2023 @ 09:30am CDT)
 * [Homework 5](./hw/HW5.pdf) (due 11/14/2023 @ 09:30am CDT)
+* [Homework 6](./hw/HW6.pdf) (due 11/30/2023 @ 09:30pm CDT)
 
 ## Final Project
 * [final project](./final/final_project.pdf) telescope/instrument choice due 10/24/2023 @ 09:30am CST <br>
