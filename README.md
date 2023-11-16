@@ -72,11 +72,12 @@ Vanderbilt University <br>
 * [Homework 4](./hw/HW4.pdf) (due 10/19/2023 @ 09:30am CST; [Solution](./hw/ASTR8060_HW4_solution.ipynb))
 * [Homework 4R](./hw/HW4R.pdf) (due 11/14/2023 @ 09:30am CDT)
 * [Homework 5](./hw/HW5.pdf) (due 11/14/2023 @ 09:30am CDT)
-* [Homework 6](./hw/HW6.pdf) (due 11/30/2023 @ 09:30pm CDT)
+* [Homework 6](./hw/HW6.pdf) (due 12/05/2023 @ 09:30pm CDT)
 
 ## Final Project
 * [final project](./final/final_project.pdf) telescope/instrument choice due 10/24/2023 @ 09:30am CST <br>
 * [final project](./final/final_project.pdf) draft is due 11/16/2023 @ 09:30am CST <br>
+* [final project](./final/final_project.pdf) final proposal is due 12/7/2023 @ 09:30am CST <br>
 
 Your [final project assignment](./final/final_project.pdf) will be to write a NOIRLab observing proposal and conduct a Time Allocation Committee panel. Your proposal and panel participation will be graded according to this [rubric](./final/rubric.pdf).
 
