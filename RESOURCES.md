@@ -63,6 +63,10 @@ Vanderbilt University <br>
 ### Week 12
 [Landolt (1992)](https://ui.adsabs.harvard.edu/abs/1992AJ....104..340L/abstract) <br>
 
+### Week 13
+
+### Week 14
+
 ### Final
 [Unconscious bias](https://ui.adsabs.harvard.edu/abs/2019BAAS...51g..41A/abstract) <br>
 [NOIRLab Call for Proposals 2024A](https://noirlab.edu/science/observing-noirlab/proposals/call-for-proposals) <br>
