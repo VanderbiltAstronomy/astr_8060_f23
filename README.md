@@ -37,9 +37,9 @@ Vanderbilt University <br>
 | R 16                         | The grating equation                                           |[[notes]](./notes/ASTR8060_notes_diffraction_spec.pdf)[[links]](RESOURCES.md#week-13) Chromey Ch. 11 |
 | T 21                         | THANKSGIVING                                                   ||
 | R 23                         | THANKSGIVING                                                   ||
-| T 28                         | Spectrograph example                                           |[[notes]](./notes/ASTR8060_notes_spectrograph.pdf)[[links]](RESOURCES.md#week-14) Chromey Ch. 11 |
-| R 30                         | Spectroscopic data reduction                                   |[[notes]](./notes/ASTR8060_notes_specreduce.pdf)[[links]](RESOURCES.md#week-14) |
-| <ins>December</ins><br> T 5  | <br>                                                           |<br>|
+| T 28                         | Spectrographs                                                  |[[notes]](./notes/ASTR8060_notes_spectrographs.pdf)[[links]](RESOURCES.md#week-14) Chromey Ch. 11 |
+| R 30                         | Spectrograph example                                           |[[notes]](./notes/ASTR8060_notes_spectrographs.pdf)[[links]](RESOURCES.md#week-14) |
+| <ins>December</ins><br> T 5  | <br> Spectroscopic data reduction                              |[[notes]](./notes/ASTR8060_notes_specreduce.pdf)[[links]](RESOURCES.md#week-15)|
 | R 7                          | Time Allocation Committees                                     ||
 | W 13                         | Final Exam: Panel Review                                       ||
 <!-- Upcoming activities are commented out
