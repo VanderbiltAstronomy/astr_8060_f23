@@ -67,6 +67,9 @@ Vanderbilt University <br>
 
 ### Week 14
 
+### Week 15
+[Spectroscopic data reductions](./notebooks/spec_reductions.pdf) <br>
+
 ### Final
 [Unconscious bias](https://ui.adsabs.harvard.edu/abs/2019BAAS...51g..41A/abstract) <br>
 [NOIRLab Call for Proposals 2024A](https://noirlab.edu/science/observing-noirlab/proposals/call-for-proposals) <br>
