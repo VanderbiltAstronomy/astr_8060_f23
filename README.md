@@ -37,9 +37,9 @@ Vanderbilt University <br>
 | R 16                         | The grating equation                                           |[[notes]](./notes/ASTR8060_notes_diffraction_spec.pdf)[[links]](RESOURCES.md#week-13) Chromey Ch. 11 |
 | T 21                         | THANKSGIVING                                                   ||
 | R 23                         | THANKSGIVING                                                   ||
-| T 28                         | Spectrograph example                                           |[[notes]](./notes/ASTR8060_notes_spectrograph.pdf)[[links]](RESOURCES.md#week-14) Chromey Ch. 11 |
-| R 30                         | Spectroscopic data reduction                                   |[[notes]](./notes/ASTR8060_notes_specreduce.pdf)[[links]](RESOURCES.md#week-14) |
-| <ins>December</ins><br> T 5  | <br>                                                           |<br>|
+| T 28                         | Spectrographs                                                  |[[notes]](./notes/ASTR8060_notes_spectrographs.pdf)[[links]](RESOURCES.md#week-14) Chromey Ch. 11 |
+| R 30                         | Spectrograph example                                           |[[notes]](./notes/ASTR8060_notes_spectrographs.pdf)[[links]](RESOURCES.md#week-14) |
+| <ins>December</ins><br> T 5  | <br> Spectroscopic data reduction                              |[[notes]](./notes/ASTR8060_notes_specreduce.pdf)[[links]](RESOURCES.md#week-15)|
 | R 7                          | Time Allocation Committees                                     ||
 | W 13                         | Final Exam: Panel Review                                       ||
 <!-- Upcoming activities are commented out
@@ -71,7 +71,7 @@ Vanderbilt University <br>
 * [Homework 3](./hw/HW3.pdf) (due 10/05/2023 @ 09:30am CST; [Solution](./hw/ASTR8060_HW3_solution.pdf))
 * [Homework 4](./hw/HW4.pdf) (due 10/19/2023 @ 09:30am CST; [Solution](./hw/ASTR8060_HW4_solution.ipynb))
 * [Homework 4R](./hw/HW4R.pdf) (due 11/14/2023 @ 09:30am CDT)
-* [Homework 5](./hw/HW5.pdf) (due 11/14/2023 @ 09:30am CDT)
+* [Homework 5](./hw/HW5.pdf) (due 11/14/2023 @ 09:30am CDT; [Solution](./hw/ASTR8060_HW4-5_solution.ipynb))
 * [Homework 6](./hw/HW6.pdf) (due 12/05/2023 @ 09:30pm CDT)
 
 ## Final Project
