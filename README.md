@@ -75,7 +75,7 @@ Vanderbilt University <br>
 * [Homework 6](./hw/HW6.pdf) (due 12/05/2023 @ 09:30pm CDT)
 
 ## Final Project
-* @@ [panel package](./final/T1.zip) is available. @@ <br>
+* <code style="color : purple">[panel package](./final/T1.zip) is available. </code>  <br>
 
 * [final project](./final/final_project.pdf) telescope/instrument choice due 10/24/2023 @ 09:30am CST <br>
 * [final project](./final/final_project.pdf) draft is due 11/16/2023 @ 09:30am CST <br>
