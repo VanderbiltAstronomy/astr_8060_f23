@@ -40,7 +40,7 @@ Vanderbilt University <br>
 | T 28                         | Spectrographs                                                  |[[notes]](./notes/ASTR8060_notes_spectrographs.pdf)[[links]](RESOURCES.md#week-14) Chromey Ch. 11 |
 | R 30                         | Spectrograph example                                           |[[notes]](./notes/ASTR8060_notes_spectrographs.pdf)[[links]](RESOURCES.md#week-14) |
 | <ins>December</ins><br> T 5  | <br> Spectroscopic data reduction                              |[[notes]](./notes/ASTR8060_notes_specreduce.pdf)[[links]](RESOURCES.md#week-15)|
-| R 7                          | Time Allocation Committees                                     ||
+| R 7                          | Time Allocation Committees                                     |[[notes]](./final/noirlab_tac_intro.pdf)[[links]](RESOURCES.md#week-15)|
 | W 13                         | Final Exam: Panel Review                                       ||
 <!-- Upcoming activities are commented out
 | R 5                          | Proposals, aperture photometry                                 ||
@@ -78,6 +78,7 @@ Vanderbilt University <br>
 * [final project](./final/final_project.pdf) telescope/instrument choice due 10/24/2023 @ 09:30am CST <br>
 * [final project](./final/final_project.pdf) draft is due 11/16/2023 @ 09:30am CST <br>
 * [final project](./final/final_project.pdf) final proposal is due 12/7/2023 @ 09:30am CST <br>
+* Preliminary grades are due 12/12/2023 @ 3:00pm CST <br>
 
 Your [final project assignment](./final/final_project.pdf) will be to write a NOIRLab observing proposal and conduct a Time Allocation Committee panel. Your proposal and panel participation will be graded according to this [rubric](./final/rubric.pdf).
 
