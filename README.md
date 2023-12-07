@@ -76,7 +76,6 @@ Vanderbilt University <br>
 
 ## Final Project
 * [panel package](./final/T1.zip) is available.<br>
-<br>
 * [final project](./final/final_project.pdf) telescope/instrument choice due 10/24/2023 @ 09:30am CST <br>
 * [final project](./final/final_project.pdf) draft is due 11/16/2023 @ 09:30am CST <br>
 * [final project](./final/final_project.pdf) final proposal is due 12/7/2023 @ 09:30am CST <br>
