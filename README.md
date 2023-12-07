@@ -75,11 +75,12 @@ Vanderbilt University <br>
 * [Homework 6](./hw/HW6.pdf) (due 12/05/2023 @ 09:30pm CDT)
 
 ## Final Project
-* [panel package](./final/T1.zip) is available.<br>
 * [final project](./final/final_project.pdf) telescope/instrument choice due 10/24/2023 @ 09:30am CST <br>
 * [final project](./final/final_project.pdf) draft is due 11/16/2023 @ 09:30am CST <br>
 * [final project](./final/final_project.pdf) final proposal is due 12/7/2023 @ 09:30am CST <br>
 * Preliminary grades are due 12/12/2023 @ 3:00pm CST <br>
+* Final exam is 12/13/2023 @ 09:00-11:00am CST <br>
+* [panel package](./final/T1.zip) is available.<br>
 
 Your [final project assignment](./final/final_project.pdf) will be to write a NOIRLab observing proposal and conduct a Time Allocation Committee panel. Your proposal and panel participation will be graded according to this [rubric](./final/rubric.pdf).
 
